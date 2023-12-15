@@ -1,1 +1,3 @@
-"# Example 1 and 2 \n I am Dhruv" 
+# Example 1 and 2
+
+- I am Dhruv
